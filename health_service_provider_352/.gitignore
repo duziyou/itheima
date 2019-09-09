@@ -1,6 +1,0 @@
-*.iml
-*.class
-.idea
-target/**
-target/*
-out/*
